@@ -22,3 +22,5 @@
 [![](https://komarev.com/ghpvc/?username=suraj-sasmal-buid&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![CrackAlgo — LeetCode, Codeforces and GitHub stats](https://crackalgo.in/api/widget/stats?leetcode=Suraj_Sasmal&geeksforgeeks=surajsasmal12&github=suraj-sasmal-buid)](https://crackalgo.in/u?leetcode=Suraj_Sasmal&geeksforgeeks=surajsasmal12&github=suraj-sasmal-buid)
